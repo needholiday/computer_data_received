@@ -1,0 +1,37 @@
+[0.617s] Invoking command in '/home/holiday/data_received/src/computer_data_received': PYTHONPATH=/home/holiday/data_received/build/computer_data_received/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/computer_data_received build --build-base /home/holiday/data_received/build/computer_data_received/build install --record /home/holiday/data_received/build/computer_data_received/install.log --install-scripts $base/lib/computer_data_received --single-version-externally-managed install_data
+[0.844s] running egg_info
+[0.844s] creating ../../build/computer_data_received/computer_data_received.egg-info
+[0.844s] writing ../../build/computer_data_received/computer_data_received.egg-info/PKG-INFO
+[0.845s] writing dependency_links to ../../build/computer_data_received/computer_data_received.egg-info/dependency_links.txt
+[0.845s] writing entry points to ../../build/computer_data_received/computer_data_received.egg-info/entry_points.txt
+[0.846s] writing requirements to ../../build/computer_data_received/computer_data_received.egg-info/requires.txt
+[0.846s] writing top-level names to ../../build/computer_data_received/computer_data_received.egg-info/top_level.txt
+[0.846s] writing manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+[0.847s] reading manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+[0.850s] writing manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+[0.850s] running build
+[0.850s] running build_py
+[0.850s] creating /home/holiday/data_received/build/computer_data_received/build
+[0.850s] creating /home/holiday/data_received/build/computer_data_received/build/lib
+[0.850s] creating /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received
+[0.850s] copying computer_data_received/__init__.py -> /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received
+[0.850s] copying computer_data_received/received_node.py -> /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received
+[0.850s] running install
+[0.850s] running install_lib
+[0.851s] creating /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received
+[0.851s] copying /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received/__init__.py -> /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received
+[0.851s] copying /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received/received_node.py -> /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received
+[0.851s] byte-compiling /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received/__init__.py to __init__.cpython-310.pyc
+[0.852s] byte-compiling /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received/received_node.py to received_node.cpython-310.pyc
+[0.852s] running install_data
+[0.852s] creating /home/holiday/data_received/install/computer_data_received/share/ament_index
+[0.853s] creating /home/holiday/data_received/install/computer_data_received/share/ament_index/resource_index
+[0.853s] creating /home/holiday/data_received/install/computer_data_received/share/ament_index/resource_index/packages
+[0.853s] copying resource/computer_data_received -> /home/holiday/data_received/install/computer_data_received/share/ament_index/resource_index/packages
+[0.853s] copying package.xml -> /home/holiday/data_received/install/computer_data_received/share/computer_data_received
+[0.853s] running install_egg_info
+[0.855s] Copying ../../build/computer_data_received/computer_data_received.egg-info to /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received-0.0.0-py3.10.egg-info
+[0.856s] running install_scripts
+[0.874s] Installing computer_data_received script to /home/holiday/data_received/install/computer_data_received/lib/computer_data_received
+[0.875s] writing list of installed files to '/home/holiday/data_received/build/computer_data_received/install.log'
+[0.896s] Invoked command in '/home/holiday/data_received/src/computer_data_received' returned '0': PYTHONPATH=/home/holiday/data_received/build/computer_data_received/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/computer_data_received build --build-base /home/holiday/data_received/build/computer_data_received/build install --record /home/holiday/data_received/build/computer_data_received/install.log --install-scripts $base/lib/computer_data_received --single-version-externally-managed install_data

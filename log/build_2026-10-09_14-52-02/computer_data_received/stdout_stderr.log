@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/computer_data_received/computer_data_received.egg-info/PKG-INFO
+writing dependency_links to ../../build/computer_data_received/computer_data_received.egg-info/dependency_links.txt
+writing entry points to ../../build/computer_data_received/computer_data_received.egg-info/entry_points.txt
+writing requirements to ../../build/computer_data_received/computer_data_received.egg-info/requires.txt
+writing top-level names to ../../build/computer_data_received/computer_data_received.egg-info/top_level.txt
+reading manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+writing manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+running build
+running build_py
+copying computer_data_received/received_node.py -> /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received
+running install
+running install_lib
+copying /home/holiday/data_received/build/computer_data_received/build/lib/computer_data_received/received_node.py -> /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received
+byte-compiling /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received/received_node.py to received_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/computer_data_received/computer_data_received.egg-info to /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received-0.0.0-py3.10.egg-info
+running install_scripts
+Installing computer_data_received script to /home/holiday/data_received/install/computer_data_received/lib/computer_data_received
+writing list of installed files to '/home/holiday/data_received/build/computer_data_received/install.log'

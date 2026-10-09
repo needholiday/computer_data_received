@@ -1,0 +1,6 @@
+source;share/computer_data_received/hook/pythonpath.ps1
+source;share/computer_data_received/hook/pythonpath.dsv
+source;share/computer_data_received/hook/pythonpath.sh
+source;share/computer_data_received/hook/ament_prefix_path.ps1
+source;share/computer_data_received/hook/ament_prefix_path.dsv
+source;share/computer_data_received/hook/ament_prefix_path.sh

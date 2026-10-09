@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/computer_data_received/computer_data_received.egg-info/PKG-INFO
+../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt
+../../build/computer_data_received/computer_data_received.egg-info/dependency_links.txt
+../../build/computer_data_received/computer_data_received.egg-info/entry_points.txt
+../../build/computer_data_received/computer_data_received.egg-info/requires.txt
+../../build/computer_data_received/computer_data_received.egg-info/top_level.txt
+../../build/computer_data_received/computer_data_received.egg-info/zip-safe
+computer_data_received/__init__.py
+computer_data_received/received_node.py
+resource/computer_data_received
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

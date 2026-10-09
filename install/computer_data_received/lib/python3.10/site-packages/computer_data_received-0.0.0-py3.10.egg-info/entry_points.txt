@@ -1,0 +1,3 @@
+[console_scripts]
+received_node = computer_data_received.received_node:main
+

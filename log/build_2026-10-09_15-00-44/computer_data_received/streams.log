@@ -1,0 +1,21 @@
+[0.587s] Invoking command in '/home/holiday/data_received/src/computer_data_received': PYTHONPATH=/home/holiday/data_received/build/computer_data_received/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/computer_data_received build --build-base /home/holiday/data_received/build/computer_data_received/build install --record /home/holiday/data_received/build/computer_data_received/install.log --install-scripts $base/lib/computer_data_received --single-version-externally-managed install_data
+[0.815s] running egg_info
+[0.816s] writing ../../build/computer_data_received/computer_data_received.egg-info/PKG-INFO
+[0.817s] writing dependency_links to ../../build/computer_data_received/computer_data_received.egg-info/dependency_links.txt
+[0.818s] writing entry points to ../../build/computer_data_received/computer_data_received.egg-info/entry_points.txt
+[0.818s] writing requirements to ../../build/computer_data_received/computer_data_received.egg-info/requires.txt
+[0.819s] writing top-level names to ../../build/computer_data_received/computer_data_received.egg-info/top_level.txt
+[0.820s] reading manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+[0.822s] writing manifest file '../../build/computer_data_received/computer_data_received.egg-info/SOURCES.txt'
+[0.822s] running build
+[0.822s] running build_py
+[0.823s] running install
+[0.824s] running install_lib
+[0.825s] running install_data
+[0.825s] running install_egg_info
+[0.827s] removing '/home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received-0.0.0-py3.10.egg-info' (and everything under it)
+[0.828s] Copying ../../build/computer_data_received/computer_data_received.egg-info to /home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages/computer_data_received-0.0.0-py3.10.egg-info
+[0.828s] running install_scripts
+[0.849s] Installing received_node script to /home/holiday/data_received/install/computer_data_received/lib/computer_data_received
+[0.850s] writing list of installed files to '/home/holiday/data_received/build/computer_data_received/install.log'
+[0.874s] Invoked command in '/home/holiday/data_received/src/computer_data_received' returned '0': PYTHONPATH=/home/holiday/data_received/build/computer_data_received/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/holiday/data_received/install/computer_data_received/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/computer_data_received build --build-base /home/holiday/data_received/build/computer_data_received/build install --record /home/holiday/data_received/build/computer_data_received/install.log --install-scripts $base/lib/computer_data_received --single-version-externally-managed install_data
